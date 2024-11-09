@@ -4,3 +4,4 @@ Release
 Debug
 *.suo
 /bin
+.vs/*
